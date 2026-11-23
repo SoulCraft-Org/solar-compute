@@ -11,7 +11,7 @@ The first vision level of SoulCraft's compute ladder. AI compute that runs on su
 | Status | 💡 Concept |
 | Energy | Sunlight |
 | Where | On Earth, or in orbit |
-| Largest real thing today | Largest solar farm: 3.5 GW · First GPU in orbit: 2025 |
+| Largest real thing today | Midong solar project, China: 3.5 GW, on the grid since 2024 ([China Green Development Group, on the SASAC site](http://www.sasac.gov.cn/n2588025/n2588124/c30898088/content.html), read 2026-11-23). First data center GPU in orbit: an NVIDIA H100 on Starcloud-1, November 2025 ([Starcloud](https://www.starcloud.com/starcloud-1), read 2026-11-23). |
 | License | Apache-2.0 |
 | Publisher | [SoulCraft](https://soulcraft.computer) |
 
