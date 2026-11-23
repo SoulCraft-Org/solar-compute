@@ -38,6 +38,10 @@ vision estimates, scaled from the data center by power.
 
 The bigger compute grows, the more it can give energy and water back instead of taking them.
 
+📍 The world is at level 2 of 5 today (▰▰▱▱▱). This repo plans level 3.
+
+This is the physical ladder: energy, water, chips. It lifts the intelligence ladder, from AI to conscious beings: [soulcraft.computer/vision/](https://soulcraft.computer/vision/)
+
 ## The plan
 
 Show how a sunlit data center can run AI compute with no net draw of power or water. The open questions are in [docs/PLAN.md](docs/PLAN.md).
